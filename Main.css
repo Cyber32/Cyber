@@ -1,0 +1,32 @@
+P {
+  color:Cyan;
+  font-size:28px;
+  font-family: "Comic Sans MS"
+}
+
+#CyanStacks { color:Cyan; }
+
+.home { color:Blue; }
+
+.home:hover { color:red }
+
+.about_me:hover { color:red }
+
+.Learn_More:hover { color:red }
+
+@import "compass/css3";
+
+@import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);
+
+
+
+
+svg{
+  width: 900px;
+  height: 100px;
+  display: block;
+  position: relative;
+  overflow: hidden; 
+  margin: 0 auto;
+  background: tan;
+}
